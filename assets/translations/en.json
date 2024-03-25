@@ -1,0 +1,81 @@
+{
+    "dialog": {
+        "successTitle": "Congratulations",
+        "errorTitle": "Error",
+        "successContent": "Information has been received successfully.",
+        "errorContent": "An unexpected error occured.",
+        "permissionTitle": "Please allow location access",
+        "permissionDescription": "Please allow location permission to use the application."
+    },
+    "button": {
+        "addNewItem": "Add new item"
+    },
+    "messages": {
+        "success": {
+            "helpRequest": "Help request was created",
+            "sendHelp": "Your route and round -trip information has been received.",
+            "delivered": "HELP DELIVERED"
+        }
+    },
+    "requestFailed": "Your request could not be received",
+    "supportRequestFaield": "The help you went to could not be found",
+    "needHelp": "Need Help",
+    "nameAndSurname": "Fullname",
+    "phoneNumber": "Phone number",
+    "address": "Address",
+    "hintCategory": "Choose the needs",
+    "hintNameNeed": "What do you need?",
+    "personNeedsHelp": "Information of the requester",
+    "youMaySelectMultiple": "Select all apply",
+    "addressHint": "Province, district, street, apartment name/no",
+    "askForHelp": "Ask for Help",
+    "goingtoHelp": "Support",
+    "personalHelp": "Personal Support",
+    "companyHelp": "Commercial Support",
+    "hintSubHeader": "Information of the requester",
+    "labelCompanyName": "Company Name",
+    "labelHelperPersonalName": "Supporter Name",
+    "labelHelperCompanyName": "Supporter Foundation",
+    "labelDriverName": "Driver's fullname",
+    "labelDriverPhone": "Driver's phone number",
+    "labelVehicleType": "Vehicle type",
+    "sendHelp": "SEND SUPPORT",
+    "plate": "Plate no",
+    "delivered": "Delivered",
+    "wasDelivered": "Help was delivered",
+    "helpCreatedSuccessfully": "Help created successfully",
+    "helpRequestCreated": "Help request created",
+    "deliver": "Deliver",
+    "kvkk": "Terms of use",
+    "kvkkReadApproved": " read and approved.",
+    "confirmationText": "I hereby accept and declare that the information I have provided on debris, destruction, assistance and support needs is accurate and confirmed, that I have taken all necessary measures and precautions to avoid information pollution and misapplications, and that I will notify any changes and updates in the information I have provided.",
+    "hintPickCity": "Select City",
+    "labelVehiclePlate": "Vehicle Plate No",
+    "labelFromCity": "Departure City",
+    "labelToCity": "Destination City",
+    "carriedItems": "Supplies",
+    "validation": {
+        "fullName": "Full name cannot be blank",
+        "phoneNumber": "Please enter a valid phone number",
+        "address": "Address can't be blank",
+        "needs": "Please select supplies",
+        "plate": "Please enter a valid plate number",
+        "kvkk": "Please accept the terms of use",
+        "confirmationText": "Please accept the confirmation text"
+    },
+    "login": {
+        "wantHelp": "Help",
+        "goingHelp": "Support",
+        "currentMap": "Map",
+        "arrived": "Delivery Check",
+        "info": "The application that brings together the vehicles that will deliver aid to the disaster area and those who need help.",
+        "description": "THIS IS A SOCIAL RESPONSIBILITY INITIATIVE"
+    },
+    "completeDialog": {
+        "nameDelivered": "The person delivered"
+    },
+    "category": "Category",
+    "map": {
+        "makeRoute": "Create a route"
+    }
+}
