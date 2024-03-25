@@ -73,5 +73,5 @@ abstract class  LocaleKeys {
   static const category = 'category';
   static const map_makeRoute = 'map.makeRoute';
   static const map = 'map';
-
+   static const city = 'city';
 }
