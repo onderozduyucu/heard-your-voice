@@ -1,5 +1,4 @@
 
-
 <h1>Heard Your Voice</h1>
 
 
@@ -68,7 +67,7 @@
 
 
 <h2> Screenshots </h2>
-<img width="800" alt="webmobil" src="https://github.com/onderozduyucu/heard-your-voice/assets/149434617/16b1e617-a08f-47b6-9ed6-a67cb918bd04.jpg">
+<img width="800" alt="webmobil" src="https://github.com/onderozduyucu/heard-your-voice/assets/149434617/54339972-e72b-42a1-b207-8d6b925b0ceb.jpg">
 
 
 
