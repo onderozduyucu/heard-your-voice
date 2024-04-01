@@ -17,7 +17,7 @@
  - Google maps integrations
  - Geolocation & geo-parsing
  - Firebase integrations
- - Mobile & Web single code base design
+ - Mobile single code base design
 
 
 
